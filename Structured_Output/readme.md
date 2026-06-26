@@ -38,36 +38,6 @@ This project covers:
 
 ---
 
-## ⚙️ Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/Structured-Output.git
-cd Structured-Output
-```
-
-### Create a virtual environment
-
-```bash
-python -m venv venv
-```
-
-### Activate the environment
-
-**Windows**
-
-```bash
-venv\Scripts\activate
-```
-
-**Linux / macOS**
-
-```bash
-source venv/bin/activate
-```
-
-
 ---
 
 ## 📚 Concepts Covered
@@ -92,11 +62,4 @@ source venv/bin/activate
 - Backend Services
 
 ---
-
-## 📦 Requirements
-
-- Python 3.10+
-- LangChain
-- Pydantic
-- Ollama (or any supported LLM)
 
